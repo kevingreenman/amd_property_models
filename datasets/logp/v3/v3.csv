@@ -1,0 +1,9 @@
+smiles,logP
+COc1ccc(-c2cc3nn4c(-c5ccccc5C(C)=O)nnc4sc-3cc2=O)cc1,"[[7.0, -2.358, 0.388]]"
+NC(=O)c1ccccc1-c1ccccc1-c1nnc2sc3c(O)c(=O)cc(O)c-3nn12,"[[7.0, 3.087533306837082, 1.0805333299636841]]"
+COc1ccc(-c2ccccc2-c2nnc3sc4cc(=O)ccc-4nn23)cc1OC,"[[7.0, 3.420933386325837, 1.1229333400726318]]"
+NC(=O)C1CCN(c2ccccc2-c2nnc3sc4cc(=O)ccc-4nn23)CC1,"[[7.0, 2.4207333465814593, 0.9957333350181579]]"
+O=C(O)c1ccc(-c2ccccc2-c2nnc3sc4cc(=O)ccc-4nn23)cc1,"[[7.0, 0.47589998012781154, 0.7483999974727631]]"
+NC(=O)C1CCN(c2ccccc2-c2nnc3sc4c(O)c(=O)cc(O)c-4nn23)CC1,"[[7.0, 0.3647666534185411, 0.734266664981842]]"
+COc1ccc(-c2ccccc2-c2nnc3sc4cc(=O)ccc-4nn23)cc1,"[[7.0, 0.6148167130351067, 0.7660666725635528]]"
+Cc1ccccc1-c1nnc2sc3cc(=O)c(-c4ccc5c(c4)OCCO5)cc-3nn12,"[[7.0, 3.948816613674164, 1.1900666599273682]]"

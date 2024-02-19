@@ -1,0 +1,18 @@
+smiles,photodeg_kinetic_rate
+O=c1cc2sc3nnc(-c4ccncc4)n3nc-2cc1Br,2.1521293597962283e-05
+O=C(O)CCC(=O)Nc1ccc(-c2cc3nn4c(-c5ccncc5)nnc4sc-3cc2=O)cc1,-0.00011471890412851554
+O=c1cc2sc3nnc(-c4ccncc4)n3nc-2cc1-c1cccc(CBr)c1,5.460131973966094e-05
+COc1ccc(-c2cc3nn4c(-c5ccncc5)nnc4sc-3cc2=O)c(OC)c1,7.544814444636609e-06
+CCc1ccccc1-c1nnc2sc3cc(=O)c(-c4ccccc4)cc-3nn12,Insufficient points for fitting
+O=C1OCc2cc(-c3cc4nn5c(-c6ccncc6)nnc5sc-4cc3=O)ccc21,5.431353700025451e-06
+O=c1cc2sc3nnc(-c4ccncc4)n3nc-2cc1-c1cc2ccccc2o1,6.860457692268058e-06
+O=c1cc2sc3nnc(-c4ccncc4)n3nc-2cc1-c1ccc2c(c1)OCCO2,8.744269334881185e-06
+CC(=O)Nc1ccc(-c2cc3nn4c(-c5ccncc5)nnc4sc-3cc2=O)cc1,5.796313756246193e-05
+Cc1ccccc1-c1nnc2sc3cc(=O)c(Br)cc-3nn12,7.324047528421512e-06
+Cc1ccccc1-c1nnc2sc3cc(=O)c(Br)cc-3nn12,1.7e-05
+O=C(O)c1cc(-c2ccccc2)c2c(ccc3nc4ncccc4n32)c1,4.26e-06
+Fc1cc(-c2ccc(Cl)cc2)cc2c1ccc1nc3ncccc3n12,6.87e-06
+Fc1cc(-c2ccccc2)cc2c1ccc1nc3ncccc3n12,3.66e-06
+Cc1ccc(C=Cc2ccc3c(ccc4nc5nc(Cl)ccc5n43)c2)cc1,2.08e-05
+Fc1cc(Br)cc2c1ccc1nc3ncccc3n12,9.12e-05
+Fc1cc(Br)cc2c1ccc1nc3nc(Cl)ccc3n12,3.89e-05
